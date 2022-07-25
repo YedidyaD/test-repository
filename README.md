@@ -1,6 +1,6 @@
 # test project readme
 
-after push
+after commit
 
 subtitle0
 
