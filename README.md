@@ -1,6 +1,6 @@
 # test project readme
 
-after commit
+before add
 
 subtitle0
 
